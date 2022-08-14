@@ -1,2 +1,0 @@
-# properties-a
-properti admin
