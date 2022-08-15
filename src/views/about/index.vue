@@ -34,7 +34,7 @@
         <div>
           <div class="bg-slate-800 p-2 rounded-xl text-white">
             Response Body <br />
-            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Амжилттай",
+            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Successfully",
             <br />&nbsp; "data": {<br />&nbsp;&nbsp;&nbsp;&nbsp; "url":
             "/uploads/cparking/image/png/62ea32e59c004b4c08866a70.png",<br />&nbsp;&nbsp;&nbsp;&nbsp;
             "id": "62ea32e52b689485b3d412df"<br />&nbsp;&nbsp; }<br />
@@ -63,7 +63,7 @@
         <div>
           <div class="bg-slate-800 p-2 rounded-xl text-white">
             Response Body <br />
-            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Амжилттай",
+            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Successfully",
             <br />&nbsp; "data": [ <br />&nbsp;&nbsp;&nbsp; {<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
             "url":
             "/uploads/cparking/image/png/62ea32e59c004b4c08866a70.png",<br />&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -96,7 +96,7 @@
         <div>
           <div class="bg-slate-800 p-2 rounded-xl text-white">
             Response Body <br />
-            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Амжилттай",
+            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Successfully",
             <br />&nbsp; "data": {<br />&nbsp;&nbsp;&nbsp;&nbsp; "url":
             "/uploads/cparking/image/png/62ea32e59c004b4c08866a70.png",<br />&nbsp;&nbsp;&nbsp;&nbsp;
             "id": "62ea32e52b689485b3d412df"<br />&nbsp;&nbsp; }<br />
@@ -125,7 +125,7 @@
         <div>
           <div class="bg-slate-800 p-2 rounded-xl text-white">
             Response Body <br />
-            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Амжилттай",
+            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Successfully",
             <br />&nbsp; "data": {<br />&nbsp;&nbsp;&nbsp;&nbsp; "url":
             "/uploads/cparking/image/png/62ea32e59c004b4c08866a70.png",<br />&nbsp;&nbsp;&nbsp;&nbsp;
             "id": "62ea32e52b689485b3d412df"<br />&nbsp;&nbsp; }<br />
@@ -148,7 +148,7 @@
         <div>
           <div class="bg-slate-800 p-2 rounded-xl text-white">
             Response Body <br />
-            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Амжилттай",
+            { <br />&nbsp; "success": true, <br />&nbsp; "message": "Successfully",
             <br />&nbsp; }<br />
           </div>
         </div>
