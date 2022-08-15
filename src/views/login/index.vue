@@ -26,7 +26,7 @@
                   for="phonenumber"
                   class="block text-sm font-medium leading-5 text-gray-700"
                 >
-                  Цахим хаяг
+                  Email address
                 </label>
                 <div class="mt-1 rounded-md shadow-sm">
                   <input
