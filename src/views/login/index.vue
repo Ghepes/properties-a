@@ -13,7 +13,7 @@
       <div class="mx-auto w-full max-w-sm">
         <div>
           <h2 class="mt-6 text-3xl leading-9 font-extrabold text-gray-900">
-            Нэвтрэх
+            Login
           </h2>
           <p class="mt-2 text-sm leading-5 text-gray-600 max-w"></p>
         </div>
@@ -164,7 +164,7 @@
                       ease-in-out
                     "
                   >
-                    Нэвтрэх
+                    Login
                   </button>
                 </span>
               </div>
